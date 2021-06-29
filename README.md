@@ -1,6 +1,7 @@
 파일에 대한 설명
 -------------
-
+### autoencoder.py
+* 오토인코더 테스트(실패 ㅠ)
 ### infernce.py
 * 모델 학습을 위한 곳 baseline과 동일
 
