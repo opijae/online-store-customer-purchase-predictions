@@ -10,3 +10,6 @@
 
 ### experiment.py
 * 이것 저것 실험해보고 결과를 보는 파일
+
+### Report  
+* https://www.notion.so/Wrap-Up-p-2-bc3f9f9b191b443187ed2705187347f0
